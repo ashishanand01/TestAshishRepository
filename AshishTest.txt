@@ -1,0 +1,7 @@
+steps for hosting web Apps from infy Network:
+> GoTo https:://github.com
+>Login via any email address
+>Create new repository for account 
+>select check box while creating repo "Initialize this repo with readme"
+>inside new repo create new file ...index.htm..add HTML content and save.
+>follow steps to use "Deployment option" from 1st document .
